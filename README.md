@@ -18,8 +18,7 @@ Building scalable and responsive web applications using React, Node.js, Express,
 ### 📊 Data Visualization & BI
 Creating insightful dashboards and reports using Power BI, Tableau, and Plotly.
 
-### ☁️ Cloud & Deployment
-Deploying projects using Streamlit, Flask, FastAPI, Hugging Face Spaces, and cloud platforms like Heroku, Render, and Firebase.
+
 ------------------------------
 
 *   🌍  I'm based in Pakistan
