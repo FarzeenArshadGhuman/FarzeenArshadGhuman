@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farzeen Arshad Ghuman
 =============================================================================================================================================
 
-A passionate and results-driven Data Scientist, Machine Learning & AI Engineer, and Full Stack Developer with a strong foundation in data-driven problem solving and modern web technologies.
-
-I specialize in designing intelligent systems that merge data science, AI models, and full-stack web applications to deliver real-world impact. With experience spanning everything from exploratory data analysis and model development to end-to-end deployment, I thrive on building smart solutions that are both functional and user-friendly.
+A passionate and results-driven Data Scientist, Machine Learning & AI Engineer, and Full Stack Developer with a strong foundation in data-driven problem solving and modern web technologies.I specialize in designing intelligent systems that merge data science, AI models, and full-stack web applications to deliver real-world impact. With experience spanning everything from exploratory data analysis and model development to end-to-end deployment, I thrive on building smart solutions that are both functional and user-friendly.
 ------------------------------
 
 *   🌍  I'm based in Pakistan
