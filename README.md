@@ -18,6 +18,8 @@ Building scalable and responsive web applications using React, Node.js, Express,
 ### 📊 Data Visualization & BI
 Creating insightful dashboards and reports using Power BI, Tableau, and Plotly.
 
+### 🧠 Mindset
+I believe in continuous learning, creative experimentation, and building meaningful digital experiences. Whether it's crafting a data pipeline, optimizing a deep learning model, or designing a sleek frontend — I'm always ready to dive in.
 
 ------------------------------
 
