@@ -1,7 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farzeen Arshad Ghuman
 =============================================================================================================================================
 
-* Hi, I'm Farzeen Arshad Ghuman — a passionate and results-driven Data Scientist, Machine Learning & AI Engineer, and Full Stack Developer with a strong foundation in data-driven problem solving and modern web technologies. I specialize in designing intelligent systems that merge data science, AI models, and full-stack web applications to deliver real-world impact. With experience spanning everything from exploratory data analysis and model development to end-to-end deployment, I thrive on building smart solutions that are both functional and user-friendly.
+# 💼 About Me
+
+* A passionate and results-driven Data Scientist, Machine Learning & AI Engineer, and Full Stack Developer with a strong foundation in data-driven problem solving and modern web technologies. I specialize in designing intelligent systems that merge data science, AI models, and full-stack web applications to deliver real-world impact. With experience spanning everything from exploratory data analysis and model development to end-to-end deployment, I thrive on building smart solutions that are both functional and user-friendly.
+  
+# 👨‍💻 What I Do:
+### 🔬 Data Science & Machine Learning
+Predictive modeling, NLP, computer vision, time series, and statistical analysis using Python (Pandas, Scikit-learn, TensorFlow, etc.)
+
+### 🤖 AI Engineering
+Building intelligent systems using deep learning, LLMs, and multimodal AI with real-world applications.
+
+### 🌐 Full Stack Development
+Building scalable and responsive web applications using React, Node.js, Express, MongoDB, and REST APIs.
+
+### 📊 Data Visualization & BI
+Creating insightful dashboards and reports using Power BI, Tableau, and Plotly.
+
+### ☁️ Cloud & Deployment
+Deploying projects using Streamlit, Flask, FastAPI, Hugging Face Spaces, and cloud platforms like Heroku, Render, and Firebase.
 ------------------------------
 
 *   🌍  I'm based in Pakistan
