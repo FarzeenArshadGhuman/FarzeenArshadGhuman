@@ -45,12 +45,5 @@ I believe in continuous learning, creative experimentation, and building meaning
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a>
-<!-- Kaggle Link -->
-<a href="https://www.kaggle.com/farzeenarshad" target="_blank" rel="noreferrer">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaggle_logo.svg/200px-Kaggle_logo.svg.png" />
-        <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaggle_logo.svg/200px-Kaggle_logo.svg.png" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaggle_logo.svg/200px-Kaggle_logo.svg.png" width="32" height="32" alt="Kaggle" />
-    </picture>
-</a>
+
 </p>
